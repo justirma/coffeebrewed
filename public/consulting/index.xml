@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About me on Irma Mesa</title>
+    <title>Consulting on Irma Mesa</title>
     <link>/consulting/</link>
-    <description>Recent content in About me on Irma Mesa</description>
+    <description>Recent content in Consulting on Irma Mesa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2019 21:05:33 +0530</lastBuildDate>
     
 	<atom:link href="/consulting/index.xml" rel="self" type="application/rss+xml" />
     

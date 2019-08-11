@@ -10,10 +10,11 @@ Thanks for stumbling on this page, glad you’re here. I’m real.
 
 ### What I’m up to now
 
+- Remote work consulting - *coming soon!*
 - Working on a few side projects that impact minorities in tech
 - Full-time Product Manager, 5 days a week
 - Running a bi-weekly [newsletter](https://workfromhomeletters.substack.com)
-- Hosting a [podcast](https://elevatdlife.com)
+- Hosting a [podcast](https://dontcrushitalone.com)
 - Creating remote work and tech videos on Youtube weekly
 - Writing a post weekly on my blog
 - Learning Nodejs and React
