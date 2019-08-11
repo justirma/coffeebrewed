@@ -28,7 +28,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "yo@irmamesa.com"
+  email = "hi@justirma.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -59,7 +59,7 @@ googleAnalytics = ""
   [params.social]
   #facebook      = "full page or profile url in facebook"
   #googleplus    = "full profile url in googleplus"
-  email         = "yo@irmamesa.com"
+  email         = "hi@justirma.com"
   twitter       = "https://twitter.com/_justirma"
   linkedin      = "https://linkedin.com/in/irmamesa"
   instagram     = "https://instagram.com/_justirma"
