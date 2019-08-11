@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Irma Mesa</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolios on Irma Mesa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jul 2019 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HeyDay, a POC co-working app.</title>
+      <link>/portfolio/heyday-a-people-of-color-social-networking-coworking-app/</link>
+      <pubDate>Fri, 26 Jul 2019 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/heyday-a-people-of-color-social-networking-coworking-app/</guid>
+      <description>&lt;p&gt;Building and launching HeyDay, a POC co-working app.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TooBusy, a job board marketplace for diverse technical talent.</title>
+      <link>/portfolio/toobusy-a-job-board-marketplace-for-diverse-technical-talent/</link>
+      <pubDate>Mon, 27 May 2019 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/toobusy-a-job-board-marketplace-for-diverse-technical-talent/</guid>
+      <description>&lt;p&gt;Launching a marketplace to showcase diverse talen and too save recruiters time while hiring.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A podcast newsletter for underrepresented creators</title>
+      <link>/portfolio/a-podcast-newsletter-for-underrepresented-creators/</link>
+      <pubDate>Tue, 16 Apr 2019 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/a-podcast-newsletter-for-underrepresented-creators/</guid>
+      <description>&lt;p&gt;Building a newsletter is easy, right? That’s subjective.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FITTY, a Fitness App | Case Study</title>
+      <link>/portfolio/fitty-mobile-app-case-study/</link>
+      <pubDate>Sun, 01 Jul 2018 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/fitty-mobile-app-case-study/</guid>
+      <description>&lt;p&gt;A case study for a fitness app, called FITTY.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
