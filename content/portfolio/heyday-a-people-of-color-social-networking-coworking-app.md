@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/portfolio/heyday_landing.png"
 date = "2019-07-26T18:25:22+05:30"
 title = "HeyDay, a POC co-working app."
 weight = 0

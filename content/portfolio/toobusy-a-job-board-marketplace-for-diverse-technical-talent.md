@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/portfolio/toobusy.png"
 date = "2019-05-27T18:25:22+05:30"
 title = "TooBusy, a job board marketplace for diverse technical talent."
 weight = 0

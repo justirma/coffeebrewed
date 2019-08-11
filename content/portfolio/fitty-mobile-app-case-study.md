@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/portfolio/designs-fitty.png"
 date = "2018-07-01T18:25:22+05:30"
 title = "FITTY, a Fitness App | Case Study"
 weight = 0

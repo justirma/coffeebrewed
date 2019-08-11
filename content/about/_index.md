@@ -2,9 +2,6 @@
 date = "2019-2-08T21:05:33+05:30"
 title = "Hola, I'm Irma."
 +++
-
-![This is me][1]
-
 Thanks for stumbling on this page, glad you’re here. I’m real.
 
 ### What I’m up to now
@@ -16,7 +13,7 @@ Thanks for stumbling on this page, glad you’re here. I’m real.
 - Learning Nodejs an React
 - Rock climbing 3x a week!
 
-### About my background:
+### About my background
 
 - Broke into tech with a non-traditional educational background
 - Taught myself Front-end Web Development and started shipping projects
@@ -34,8 +31,6 @@ Thanks for stumbling on this page, glad you’re here. I’m real.
 An Elegant Puzzle: Systems of Engineering Management - [buy here](https://amzn.to/2G1jyQx)
 
 _Once I’m done with this one I’ll post a short review on my [Youtube channel](https://www.youtube.com/channel/UCh1t4RdWMZ2mfYTWfpFaZNg)._
-
-[1]: /img/about.jpg
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">

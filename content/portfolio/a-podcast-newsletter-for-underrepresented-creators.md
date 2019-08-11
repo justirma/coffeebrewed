@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/portfolio/onepod_substack.png"
 date = "2019-04-16T18:25:22+05:30"
 title = "A podcast newsletter for underrepresented creators"
 weight = 0
