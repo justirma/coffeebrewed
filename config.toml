@@ -52,7 +52,11 @@ googleAnalytics = ""
   name = "Portfolio"
   url = "portfolio/"
 
-  [[params.navlinks]]
+ [[params.navlinks]]
+  name = "Consulting"
+  url = "https://goremoteli.carrd.co/"
+
+[[params.navlinks]]
   name = "Get in touch"
   url = "contact/"
 
