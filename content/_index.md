@@ -10,7 +10,7 @@ Thanks for stumbling on this page, glad you’re here. I’m real.
 
 ### What I’m up to now
 
-- Remote work consulting - *coming soon!*
+- Education around remote work + consulting/strategy
 - Working on a few side projects that impact minorities in tech
 - Full-time Product Manager, 5 days a week
 - Running a bi-weekly [newsletter](https://workfromhomeletters.substack.com)
@@ -29,7 +29,7 @@ Thanks for stumbling on this page, glad you’re here. I’m real.
 - Conducted a number of customer discovery and research sessions
 - Applied Human Interaction Design principles and design thinking to products and systems
 - Formed resources around maintaining healthy remote work environments
-- Consistently try to connect underrepresnted and Latinx folks in tech
+- Consistently try to connect underrepresented and Latinx folks in tech
 - Using my Psychology degree in my day-to-day as a PM and consultant (which is great because that tuition was EXPENSIVE….)
 - Oh! I also rock climb, play guitar and make Youtube videos when I’m not deep in tech
 

@@ -29,6 +29,8 @@ You may be asking, “Hmm…but engineers don’t know the product as well as I 
 
 Now, how can you work to attain the “Why?” So, my approach for this is when you’re faced with a feature request from a user or from sales get to the bottom of why that feature is useful and when the user found themselves missing it. From that point hop on a call with a developer and collaborate in writing a story or multiple stories to attack that problem. You may have ideas on solutions and feel free to discuss them but please don’t enter a story with a request and the solution written in for an engineer to just do it. We want the engineers to feel confident and creative and by providing them with the solutions we may be undermining their skills.
 
+<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+
 ## Involve Early in Discovery or User Interviews
 
 When you are running continuous discovery or whichever method your team prefers make sure to include engineering. That exploratory usability call you’re having with Maria (a frequent user of your app) is a perfect time to invite one of your engineers. When engineers are able to have a touch point with a real person using what they’re building it creates an opening for better work. Engineers will also see how meaningful their work was to folks outside of CX or Sales.
@@ -42,3 +44,17 @@ One way to make the team cohesive and really get into the nitty-gritty is to all
 ## Make That Change Today
 
 I’ve worked for companies on two opposite extremes - one extreme was engineers who felt no freedom to move the needle forward and on the other hand a team who grew into feeling empowered to run. Let me tell you, having a team who can run autonomously and collaborate with one another is a dream. Given the right communication, specs and involvement with users can really take your engineering team to new heights.
+
+--
+
+## About Me
+
+My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
+
+I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/consulting/)
+
+Talk soon.
+
+Irma
+
+<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>

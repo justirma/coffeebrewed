@@ -43,6 +43,8 @@ I will admit, there are some terms that are thrown around that I really don’t 
 
 As entrepreneurs, we need to be receptive to learning - especially when it comes to money. As great as having an accountant is, there are some things we have to know ourselves before seeking third-party help.
 
+<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+
 If you’re a bit unsure where to start with this podcast, I’d recommend the two following episodes:
 
 [The Stupidest Thing You Can Do With Your Money](http://freakonomics.com/podcast/stupidest-money/)
@@ -52,3 +54,17 @@ If you’re a bit unsure where to start with this podcast, I’d recommend the t
 Although there are plenty of podcasts that have came out this past year alone on a variety of topics, when it comes to getting inspired and feeling motivated - these three are my top go-to’s when I’m in a funk. Being a freelancer and owning your own business can be overwhelming, and it’s okay to seek for help.
 
 Podcasts are a free source that are available for all of us - and for those of us who can’t stand limiting ourselves to one task at a time, podcasts are great to have in the background when doing work or any other tasks that don’t need your complete attention. So what are you waiting for!? Listen to one of these podcasts and get back to kicking ass at what you do best!
+
+--
+
+## About Me
+
+My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
+
+I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/consulting/)
+
+Talk soon.
+
+Irma
+
+<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>

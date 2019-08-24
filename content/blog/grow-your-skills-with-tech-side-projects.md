@@ -35,6 +35,8 @@ c. Product-focused Slack Workspaces — Slack groups focused on Product Mana
 
 If you’ve never heard of [Taproot](https://taprootfoundation.org/), they’re a volunteer-based project site for non-profit organizations. Though they don’t have a specific listing for organizations searching for product managers, there are quite a few looking for project managers. While Project Management and Product Management are two different fields, consider volunteering if you’re looking for experience working with and managing a team that needs to focus and stay on track for delivery. The projects listed at Taproot offer a fantastic way to give back and also gain marketable experience.
 
+<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+
 ### 4. Plan and start up your own product idea
 
 It may be a little scary to start up your own thing, but many of the folks with Product Manager titles have either had a casual side product or have become CEOs or founders of their own products. It’s the work they put in on their own product idea that allowed them to build up an impressive skill set and well-honed product sense.
@@ -64,3 +66,17 @@ I served as a Project Manager for a Web Development cohort via Chingu Voyage for
 **Validating product ideas.**
 
 I built a product idea on the side and connected with a Twitter friend to complete mockups a few months ago and it was a great learning experience. In this project, I started from scratch and thought about the fitness industry and how trainers need tools to track their clients. It was from that initial thought that I arrived at FITTY, a mobile app for fitness trainers. I went through all the phases of validating a product idea: discovery, wireframing, competitive research, usability studies, and mocking up my app on Adobe XD. I then paired with my Twitter friend, [Thor Schroeder](https://twitter.com/thorms11), to improve the design and layout so the app would be user-friendly. This experience taught me the value of validating product ideas as early as possible to arrive at an MVP. It’s really important that the product you build provides value and meets a real need in society or else the resulting effort may well be a loss. Each of these projects has played a part in getting me to where I am today. I hope that the tips I’ve shared above will help you find open-source or side projects so you too can strengthen your product management muscles. Good luck!
+
+--
+
+## About Me
+
+My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
+
+I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/consulting/)
+
+Talk soon.
+
+Irma
+
+<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
