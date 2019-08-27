@@ -4,7 +4,7 @@ draft = false
 image = "img/blog/thumb-1.jpg"
 date = "2019-08-11T18:25:22+05:30"
 title = "3 Tips for Onboarding Remote Employees"
-weight = 1
+weight = 0
 +++
 
 Okay, so not only is it difficult to hire remote employees but it’s even harder to onboard them. Ideally, if your company can afford it it’s substantially easier to have an offsite to onboard the new hire in person but that’s not super realistic and never expected.
