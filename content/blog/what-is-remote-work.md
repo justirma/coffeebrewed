@@ -1,9 +1,9 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/blog/coworking.jpg"
-date = "2019-06-03T18:25:22+05:30"
-title = "What is remote work?"
+image = "img/blog/coworking.png"
+date = "2019-08-27T18:25:22+05:30"
+title = "What is remote work? What you should know about it in 2019."
 weight = 1
 +++
 
