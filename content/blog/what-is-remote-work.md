@@ -7,7 +7,7 @@ title = "What is remote work? What you should know about it in 2019."
 weight = 1
 +++
 
-You may know of the remote work in a few different ways, let’s cover them.
+You may know of remote work in a few different ways, let’s cover them.
 
 <!--more-->
 
