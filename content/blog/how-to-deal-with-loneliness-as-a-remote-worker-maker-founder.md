@@ -35,7 +35,7 @@ Some co-working spaces require memberships but some allow day passes to be purch
 
 Small plug. I run a virtual co-working meetup for minorities. You can find it by going to this link. It's free and a space where you can feel safe and accountable in getting your work done. We meet weekly for 1 hour and try to hit 1 or 2 goals per meetup.
 
-<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>
 
 ### Coffee shops
 
@@ -71,10 +71,10 @@ Irma
 
 My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
 
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/consulting/)
+I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
 
 Talk soon.
 
 Irma
 
-<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>

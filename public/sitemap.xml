@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>/newsletter/</loc>
+    <lastmod>2019-09-06T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
     <lastmod>2019-08-27T18:25:22+05:30</lastmod>
     <priority>0</priority>
@@ -24,7 +29,7 @@
   </url>
   
   <url>
-    <loc>/consulting/</loc>
+    <loc>/workwithme/</loc>
     <lastmod>2019-08-23T21:05:33+05:30</lastmod>
   </url>
   

@@ -29,7 +29,7 @@ You may be asking, “Hmm…but engineers don’t know the product as well as I 
 
 Now, how can you work to attain the “Why?” So, my approach for this is when you’re faced with a feature request from a user or from sales get to the bottom of why that feature is useful and when the user found themselves missing it. From that point hop on a call with a developer and collaborate in writing a story or multiple stories to attack that problem. You may have ideas on solutions and feel free to discuss them but please don’t enter a story with a request and the solution written in for an engineer to just do it. We want the engineers to feel confident and creative and by providing them with the solutions we may be undermining their skills.
 
-<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>
 
 ## Involve Early in Discovery or User Interviews
 
@@ -51,10 +51,10 @@ I’ve worked for companies on two opposite extremes - one extreme was engineers
 
 My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
 
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/consulting/)
+I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
 
 Talk soon.
 
 Irma
 
-<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>

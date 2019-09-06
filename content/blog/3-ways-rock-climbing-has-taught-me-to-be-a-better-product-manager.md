@@ -19,7 +19,7 @@ In rock climbing, there are many instances where you're faced with a choice. A c
 
 Let's take a quick step back. When I first started visiting a rock climbing gym I was pretty immediate to trust the facility and safety. I had a few friends who had been members of the gym for a few months so I immediately thought, "Well if they trust it, I've got nothing to worry about". I went in trusting the employees, the safety of the harnesses, the strength of the ropes, and the cushiness of the mats that would catch me if I fell.
 
-<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>
 
 If I had gone in not trusting the gym and what it had to offer I would've been scared every step of the way.
 
@@ -57,10 +57,10 @@ In Product Management, be intentional about what you take on and what you say, "
 
 My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
 
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/consulting/)
+I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
 
 Talk soon.
 
 Irma
 
-<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>

@@ -21,7 +21,7 @@ Product School provides PM training. They have a ton of different campuses all o
 
 - Check out [these](https://www.youtube.com/channel/UC6hlQ0x6kPbAGjYkoz53cvA) informative videos! Tons of awesome recorded live streams for PM’s literally from any company you can imagine!
 
-<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>
 
 ## Mind the Product
 
@@ -49,10 +49,10 @@ Skills emailed right to your inbox daily. They have a ton of different options f
 
 My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
 
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/consulting/)
+I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
 
 Talk soon.
 
 Irma
 
-<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>

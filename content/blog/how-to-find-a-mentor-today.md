@@ -15,7 +15,7 @@ Have you ever felt a little lost on where to go next in your career? A mentor ca
 
 Another benefit to having a mentor is that lots of times, the mentorship can turn into a friendship where both people are giving. In my case, I do ask my mentors lots of questions on what they’ve done in specific situations but at the same time I make sure to always ask if they need anythign from me. I am genuinely interested in my mentors success and them hitting their goals just like they are interested in my goals.
 
-<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>
 
 ## Questions to ask your mentor
 
@@ -43,10 +43,10 @@ I’d definitely suggest getting to know your mentor and then letting the mentor
 
 My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
 
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/consulting/)
+I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
 
 Talk soon.
 
 Irma
 
-<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>

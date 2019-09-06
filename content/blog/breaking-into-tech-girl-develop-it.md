@@ -30,7 +30,7 @@ Girl Develop It Indy hosted an amazing panel on February 23rd, 2018 with 4 women
 
 Each of their journeys into tech was unique and some may say unconventional. They each carved their own personal path to enter tech - showing us that having a traditional Computer Science background isn’t the only way in. With that said, don’t be afraid to clear your own path as you kickstart your journey into tech.
 
-<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>
 
 #### Key takeaways
 
@@ -84,7 +84,7 @@ Also - **Happy 3 year anniversary** to the GDI Indy chapter!!
 
 My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
 
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/consulting/)
+I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
 
 Talk soon.
 

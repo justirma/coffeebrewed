@@ -12,7 +12,7 @@ So you’re having trouble with meetings, huh?
 
 It’s a problem a lot of us have. I have yet to meet 1 person who has meetings, scheduling them, etc. to work perfectly. It's honestly sometimes even worse in a remote setting because I can just pop over to your calendar and pick anytime I please to meet with you.
 
-<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>
 
 In the meantime, while that is being figured out, [here](https://blog.flexiple.com/schedule-meetings-like-a-boss/) is a great post by Flexiple on how you can schedule meetings like a BOSS.
 
@@ -28,10 +28,10 @@ Irma
 
 My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
 
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/consulting/)
+I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
 
 Talk soon.
 
 Irma
 
-<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>

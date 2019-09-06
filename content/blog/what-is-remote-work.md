@@ -35,8 +35,8 @@ At the end of the day working from an office or working from home, we’re still
 
 -
 
-If you read this far, [here’s how](https://goremoteli.carrd.co) I can help you work towards forming or maintaining a fully remote team.
+If you read this far, [here’s how](/workwithme) I can help you work towards forming or maintaining a fully remote team.
 
 Irma
 
-<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>

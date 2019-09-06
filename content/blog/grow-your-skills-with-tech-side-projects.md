@@ -35,7 +35,7 @@ c. Product-focused Slack Workspaces — Slack groups focused on Product Mana
 
 If you’ve never heard of [Taproot](https://taprootfoundation.org/), they’re a volunteer-based project site for non-profit organizations. Though they don’t have a specific listing for organizations searching for product managers, there are quite a few looking for project managers. While Project Management and Product Management are two different fields, consider volunteering if you’re looking for experience working with and managing a team that needs to focus and stay on track for delivery. The projects listed at Taproot offer a fantastic way to give back and also gain marketable experience.
 
-<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>
 
 ### 4. Plan and start up your own product idea
 
@@ -73,10 +73,10 @@ I built a product idea on the side and connected with a Twitter friend to comple
 
 My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
 
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/consulting/)
+I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
 
 Talk soon.
 
 Irma
 
-<iframe width="470" height="320" src="https://workfromhomeletters.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>

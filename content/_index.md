@@ -13,7 +13,7 @@ Thanks for stumbling on this page, glad you’re here. I’m real.
 - Education around remote work + consulting/strategy
 - Working on a few side projects that impact minorities in tech
 - Full-time Product Manager, 5 days a week
-- Running a bi-weekly [newsletter](https://workfromhomeletters.substack.com)
+- Running a bi-weekly [newsletter](https://theweeklyhuman.substack.com)
 - Hosting a [podcast](https://dontcrushitalone.com)
 - Creating remote work and tech videos on Youtube weekly
 - Writing a post weekly on my blog
