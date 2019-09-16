@@ -38,6 +38,6 @@ I hooked up Table2Site (they make their setup super simple) with Airtable using 
 
 ## What’s next?
 
-You can check out TooBusy, [here](https:/toobusy.co) and apply to become a seeker!
+You can check out TooBusy, [here](https://toobusy.co) and apply to become a seeker!
 
 Bring on more seekers and start getting the seekers shared with hiring companies and recruiters.
