@@ -20,7 +20,6 @@
   <url>
     <loc>/blog/</loc>
     <lastmod>2019-08-27T18:25:22+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -56,7 +55,6 @@
   <url>
     <loc>/portfolio/</loc>
     <lastmod>2019-07-26T18:25:22+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -121,7 +119,6 @@
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -138,7 +135,6 @@
   
   <url>
     <loc>/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
