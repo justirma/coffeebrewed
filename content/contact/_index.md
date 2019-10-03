@@ -5,10 +5,7 @@ title = "Get in touch"
 
 #### My schedule is open for office hours 👋🏽
 
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/20min?wanted=true" target="_blank">Book a call</a>
-
-Here are a few things I can help you with:
+Here are a few things I can help you with ([Book here](https://calendly.com/_justirma)):
 
 - How to break into remote work
 - Transitioning to tech from a non-traditional background

@@ -1,6 +1,6 @@
 +++
 date = "2019-08-23T21:05:33+05:30"
-title = "Work With Me"
+title = "#RemoteNewbies"
 +++
 
 #### Learn how to build, manage, and grow a fully distributed and remote team.

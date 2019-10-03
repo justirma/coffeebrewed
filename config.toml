@@ -53,11 +53,11 @@ googleAnalytics = ""
   url = "portfolio/"
 
  [[params.navlinks]]
-  name = "Work With Me"
-  url = "workwithme/"
+  name = "#RemoteNewbies"
+  url = "https://remotenewbies.com/"
 
 [[params.navlinks]]
-  name = "The Weekly Human"
+  name = "Newsletter"
   url = "newsletter/"
 
 [[params.navlinks]]
