@@ -361,12 +361,6 @@ SIDEBAR + RIGHT COLUMN
 .sidebar-menu li a {
   color: #555555;
 }
-.sidebar-menu li:before {
-  font-family: 'FontAwesome';
-  content: '\f105';
-  margin: 0 5px 0 -15px;
-  color: #999999;
-}
 .sidebar-menu li.active a {
   color: #ef5285;
   font-weight: bold;

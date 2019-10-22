@@ -2,6 +2,7 @@
 date = "2019-2-08T21:05:33+05:30"
 title = "Hola, I'm Irma."
 +++
+
 Thanks for stumbling on this page, glad you’re here. I’m real.
 
 ### What I’m up to now
@@ -10,8 +11,8 @@ Thanks for stumbling on this page, glad you’re here. I’m real.
 - Full-time Product Manager, 5 days a week
 - Creating remote work and tech videos on Youtube weekly
 - Writing a post weekly on my blog
-- Learning Nodejs an React
-- Rock climbing 3x a week!
+- Learning Nodejs and React
+- CrossFit 2x a week!
 
 ### About my background
 

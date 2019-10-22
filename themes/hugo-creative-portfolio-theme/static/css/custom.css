@@ -1,1 +1,33 @@
-/* your styles go here */
+body {
+  background-color: white;
+}
+
+/*
+=====================
+HOME PAGE
+=====================
+*/
+
+#home {
+  margin-top: 20%;
+}
+
+#home h1 {
+  margin-bottom: 30px;
+}
+
+#description {
+  margin-bottom: 50px;
+  color: #000000;
+  font-size: 32px;
+}
+
+.sidebar-menu li {
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.copyright {
+  position: fixed;
+  bottom: 0;
+}
