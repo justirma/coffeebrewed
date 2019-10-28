@@ -3,11 +3,11 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/toobusy.png"
 date = "2019-05-27T18:25:22+05:30"
-title = "TooBusy, a job board marketplace for diverse technical talent."
+title = "TooBusy, a job board marketplace."
 weight = 0
 +++
 
-Launching a marketplace to showcase diverse talen and too save recruiters time while hiring. <!--more-->
+Launching a marketplace to showcase diverse talent. <!--more-->
 
 I started to reflect on my journey applying to jobs, interviewing, getting rejections and accepting offers. I came to understand that outside of being referred by a friend or a connection or being spammed by random recuriers trying to bring you on for a skill that's not even on your LinkedIn profile, usually job seekers have will apply directly on the job posting.
 

@@ -33,10 +33,8 @@ I don’t want anyone to think that remote work is slacking off, that it’s for
 
 At the end of the day working from an office or working from home, we’re still getting work done and we’re still delivering outcomes while also keeping our mental health, engagement and, productivity in a healthy state.
 
--
+----
 
-If you read this far, [here’s how](/workwithme) I can help you work towards forming or maintaining a fully remote team.
-
-Irma
+Thanks for reading! CHeck out [Remote Newbie](http://remotenewbie.com) for more support and resources for working remotely.
 
 <iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>

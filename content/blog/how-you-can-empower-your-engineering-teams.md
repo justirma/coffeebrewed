@@ -45,16 +45,8 @@ One way to make the team cohesive and really get into the nitty-gritty is to all
 
 I’ve worked for companies on two opposite extremes - one extreme was engineers who felt no freedom to move the needle forward and on the other hand a team who grew into feeling empowered to run. Let me tell you, having a team who can run autonomously and collaborate with one another is a dream. Given the right communication, specs and involvement with users can really take your engineering team to new heights.
 
---
+----
 
-## About Me
-
-My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
-
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
-
-Talk soon.
-
-Irma
+Thanks for reading! CHeck out [Remote Newbie](http://remotenewbie.com) for more support and resources for working remotely.
 
 <iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>

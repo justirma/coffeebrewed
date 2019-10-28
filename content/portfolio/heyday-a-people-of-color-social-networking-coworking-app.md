@@ -32,17 +32,3 @@ If this sounds like something you'd like to check out, [visit us here](https://h
 I'll catch you there.
 
 Irma
-
---
-
-## About Me
-
-My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
-
-I run remote consulting for companies and teams of all sizes, email me if you're interested.
-
-And most recently inspired by Ali Spittel I've started running office hours, check it out [here](https://calendly.com/_justirma).
-
-Talk soon.
-
-Irma

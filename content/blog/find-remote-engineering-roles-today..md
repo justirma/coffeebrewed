@@ -53,14 +53,8 @@ Good luck! If you need specific help, don't hesitate to reach out.
 
 --
 
-## About Me
+----
 
-My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
-
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
-
-Talk soon.
-
-Irma
+Thanks for reading! Check out [Remote Newbie](http://remotenewbie.com) for more support and resources for working remotely.
 
 <iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>

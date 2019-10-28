@@ -69,6 +69,4 @@ I’m going to offer an option for podcast creators whether small or large to ge
 
 ## What’s next?
 
-I’ll keep sharing onePodcast and gathering feedback. As I go, I’ll make more improvements. I’m still not too sure if I’d want to spin up a FB, IG and Twitter for this but if I should, let me know! I’m open to suggestions and feedback.
-
-If you’d like to subscribe to not miss any of our weekly newsletters, visit [onePodcast](https://onepodcast.substack.com) and drop subscribe.
+Ran this for a while but will be shutting it down soon!

@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Currently brewing coffee..."
   copyright = "&copy;2019 Irma Mesa"
   sidebarAbout = [
-    "Product Manager, blogger, maker, remote work advocate and amateur latte barista."
+    "Product Manager, maker, remote work advocate, and amateur latte barista."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

@@ -51,30 +51,8 @@ For us introverted remote workers this may be the last thing we want to do BUT h
 
 If you have any specific questions on stomping on that lonely feeling while being a remote worker, reach out!
 
---
+----
 
-## About Me
-
-My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
-
-I run remote consulting for companies and teams of all sizes, email me if you're interested.
-
-And most recently inspired by Ali Spittel I've started running office hours, check it out [here](https://calendly.com/_justirma).
-
-Talk soon.
-
-Irma
-
---
-
-## About Me
-
-My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
-
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
-
-Talk soon.
-
-Irma
+Thanks for reading! Check out [Remote Newbie](http://remotenewbie.com) for more support and resources for working remotely.
 
 <iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>

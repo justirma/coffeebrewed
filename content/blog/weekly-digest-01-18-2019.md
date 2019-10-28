@@ -55,14 +55,3 @@ Use my referral link to start receiving morning emails M-F!
 
 Share this post if it was helpful or you! If you’d like this in a weekly newsletter form, shout me on [Twitter](https://twitter.com/_justirma) and let me know :) If there’s enough interest I’ll get a mailing list running.
 
---
-
-## About Me
-
-My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
-
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
-
-Talk soon.
-
-Irma

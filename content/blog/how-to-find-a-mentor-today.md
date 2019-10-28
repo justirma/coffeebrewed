@@ -37,16 +37,8 @@ The best way I’ve found to gain a mentor i my life has been previous senior co
 
 I’d definitely suggest getting to know your mentor and then letting the mentorship naturally develop. If they are looking out for you and understand where you want to land, there should be no problem in them mentoring you. Of course, they’d have to be willing :).
 
---
+----
 
-## About Me
-
-My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
-
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
-
-Talk soon.
-
-Irma
+Thanks for reading! Check out [Remote Newbie](http://remotenewbie.com) for more support and resources for working remotely.
 
 <iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>

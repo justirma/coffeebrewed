@@ -55,16 +55,8 @@ Although there are plenty of podcasts that have came out this past year alone on
 
 Podcasts are a free source that are available for all of us - and for those of us who can’t stand limiting ourselves to one task at a time, podcasts are great to have in the background when doing work or any other tasks that don’t need your complete attention. So what are you waiting for!? Listen to one of these podcasts and get back to kicking ass at what you do best!
 
---
+----
 
-## About Me
-
-My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
-
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
-
-Talk soon.
-
-Irma
+Thanks for reading! CHeck out [Remote Newbie](http://remotenewbie.com) for more support and resources for working remotely.
 
 <iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>
